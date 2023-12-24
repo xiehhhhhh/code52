@@ -10,7 +10,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
- 
+  
 public class Main {
     Sentor sentor = null;
     public static void main(String[] args){
